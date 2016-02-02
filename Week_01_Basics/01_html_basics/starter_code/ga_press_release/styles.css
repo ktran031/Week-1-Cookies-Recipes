@@ -1,0 +1,19 @@
+
+
+body{
+	background-color: #FFE;
+	 border-color: #000;
+}
+
+	h1 {
+		color:red;
+	}
+
+	p {
+		font-size: 22px;
+
+	}
+
+	a{
+		color:green;
+	}
