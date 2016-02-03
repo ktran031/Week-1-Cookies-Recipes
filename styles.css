@@ -1,0 +1,25 @@
+
+
+body{
+	background-color: #FFE;
+   border: solid #021a40;
+   padding: 15px 18px;
+}
+
+	h3 {
+		color:#887;
+	}
+
+	p {
+		font-size: 22px;
+
+	}
+
+	a {
+		color:#900;
+	}
+
+	img {
+   border:1px solid #021a40;
+}
+
